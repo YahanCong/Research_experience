@@ -22,3 +22,10 @@ This project aimed to explore data scientists' salaries increasing/decreasing tr
 •	Vancouver Tour Advice
 
 This project aimed to investigate Vancouver's best daily trip schedule for fresh UBC students. We collected data of Great Vancouver's tour attractions, selected the 12 most visited attractions and tried to design a "best" tour plan with the most attractions visited by combinatorial optimization tools. In order to shorten the visiting time most, we transformed the one-day tour question as a Travelling Salesman Problem(TSP), and utilized heuristic method and programming tools to solve the integer regression problem for attractions selection. And to reduce the time cost while planning and make our trip schedule more flexible, we optimized the Vancouver attractions selection by transforming it as a 0/1 Knapsack problem, and solved it by dynamic programming.
+
+# Simulation of the background ticket system
+
+•	Simulation of the background ticket system
+
+This project aimed to simulate the ticket system's background by Java. You can enter the simulated system as an administrator, reset identification information, and work as a ticketing staff: store new tickets' information from the back-end panel, including ticket's starting point, destination, ticket type, and check any ticket's information. 
+
