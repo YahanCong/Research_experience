@@ -30,7 +30,7 @@ This project aimed to investigate Vancouver's best daily trip schedule for fresh
 •	Code for Vancouver Tour Advice
 
 [Vancouver_Tour_advice_TSP](https://github.com/YahanCong/Research_experience/blob/a4a1431e4eae5503903475fb8a8eaa58c89d3718/Best_vancouver_tour_TSP.ipynb)
-[Vancouver_Tour_advice_knapsack]
+[Vancouver_Tour_advice_knapsack](https://github.com/YahanCong/Research_experience/blob/bd4d4f3ccea5c548939840662bb0373ac65f1140/Best_vancouver_tour_knapsack.ipynb)
 
 # Simulation of the background ticket system
 
