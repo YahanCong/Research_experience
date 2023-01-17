@@ -24,6 +24,8 @@ This project aimed to explore data scientists' salaries increasing/decreasing tr
 This project aimed to investigate Vancouver's best daily trip schedule for fresh UBC students. We collected data of Great Vancouver's tour attractions, selected the 12 most visited attractions and tried to design a "best" tour plan with the most attractions visited by combinatorial optimization tools. In order to shorten the visiting time most, we transformed the one-day tour question as a Travelling Salesman Problem(TSP), and utilized heuristic method and programming tools to solve the integer regression problem for attractions selection. And to reduce the time cost while planning and make our trip schedule more flexible, we optimized the Vancouver attractions selection by transforming it as a 0/1 Knapsack problem, and solved it by dynamic programming.
 
 [Best_Vancouver_Daily_Tour_Report](https://github.com/YahanCong/Research_experience/blob/5d648bf061e739b3e98b08db75dfaf5e1155ecba/Best_Vancouver_Daily_Tour.pdf)
+
+•	Code for Vancouver Tour Advice
 [Code for Vancouver Tour advice](https://github.com/YahanCong/Research_experience/blob/a4a1431e4eae5503903475fb8a8eaa58c89d3718/Best_vancouver_tour_TSP.ipynb)
 
 # Simulation of the background ticket system
