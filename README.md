@@ -39,3 +39,4 @@ This project aimed to investigate Vancouver's best daily trip schedule for fresh
 
 This project aimed to simulate the ticket system's background by Java. You can enter the simulated system as an administrator, reset identification information, and work as a ticketing staff: store new tickets' information from the back-end panel, including ticket's starting point, destination, ticket type, and check any ticket's information. 
 
+[ticket_system_code_java](https://github.com/YahanCong/Simulation-of-the-background-ticket-system.git)
